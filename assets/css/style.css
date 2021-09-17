@@ -1,0 +1,38 @@
+/*Estilo index.html*/
+.center{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    background-color: aliceblue;
+
+}
+#menu li{
+    display: unset;
+    padding: 30px;
+
+}
+#menu li a{
+    text-align: none;
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+}
+#menu li a:hover{
+    color: grey;
+}
+.p-30 {
+    padding: 30px;
+}
+.br-50 {
+    border-radius: 50px;
+}
+.wh-300{
+    width: 500px;
+    height: 300px;
+}
+
+
+
+/*Estilo parceiros.html*/
